@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Citrus-Studio](https://github.com/KoC0de/Citrus-Studio)
 
-- 📫 Reach me on my discord: **kocode**
+- 📫 Reach me on my discord: ```kocode```
 
 - 🤓 Opinion **Vulkan > DirectX** 🗿🗿🗿
 
