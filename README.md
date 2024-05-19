@@ -1,8 +1,6 @@
 <h1 align="center">Hello, my name is KoC0de</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koc0de&label=Profile%20views&color=000000&style=flat" alt="koc0de" /> </p>
 
--  Im currently working on a graphics engine in c++
-
 - 📫 Reach me on my discord: ```kocode```
 
 <h3 align="left">Languages and Tools:</h3>
